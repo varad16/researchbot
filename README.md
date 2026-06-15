@@ -86,6 +86,4 @@ researchbot/
 └── scripts/setup.sh
 ```
 
-## Notes on Metrics
 
-If you want to report metrics (citation accuracy, latency, etc.) on a resume, run the evaluation harness in `backend/tests/test_eval.py` against your own query set and report actual measured numbers.
